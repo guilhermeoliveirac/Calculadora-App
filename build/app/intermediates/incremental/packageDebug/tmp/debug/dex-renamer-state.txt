@@ -1,0 +1,4 @@
+#Fri Jan 06 22:12:26 BRT 2023
+base.0=/Users/guilherme/dev/Flutter/calculadora/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
